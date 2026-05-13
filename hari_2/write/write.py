@@ -1,0 +1,11 @@
+with open("data.txt","w") as file:
+    file.write("baris 1\n")
+    file.write("baris 2\n")
+    file.write("baris 3\n")
+    file.write("baris 4\n")
+    file.write("baris 5\n")
+    file.write("baris 6\n")
+    file.write("baris 7\n")
+    file.write("baris 8\n")
+    file.write("baris 9\n")
+    file.write("baris 10\n")
