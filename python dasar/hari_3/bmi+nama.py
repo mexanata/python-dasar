@@ -18,7 +18,7 @@ if nama:
     hasil_bmi =f.bmi(BB, TB)
     kategori = f.bmi_check(hasil_bmi)
 
-    print(f"\n{nama}, BMI kamu: {hasil_bmi}")
+    print(f"\n{nama}, BMI kamu: {hasil_bmi} kegedean")
     print(f"Kategori: {kategori}")
 
 # simpan ke file
