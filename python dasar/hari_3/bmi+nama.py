@@ -19,7 +19,7 @@ if nama:
     kategori = f.bmi_check(hasil_bmi)
 
     print(f"\n{nama}, BMI kamu: {hasil_bmi} kegedeans")
-    print(f"Kategori: {kategori}")
+    print(f"Kategori: {kategori} aduh usaha lagai yaaa")
 
 # simpan ke file
     with open("data.txt", "a") as file:
